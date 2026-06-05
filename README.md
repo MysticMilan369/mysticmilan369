@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hey 👋 I'm Milan
 
-<!--
-**MysticMilan369/mysticmilan369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend engineer who somehow keeps getting dragged into full-stack development.
 
-Here are some ideas to get you started:
+### Currently wasting time on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ⚙️ Node.js, TypeScript, NestJS & Express.js
+* 🚀 Building APIs nobody sees but everybody depends on
+* 🗄️ MongoDB, PostgreSQL & database tuning rabbit holes
+* ☁️ AWS, Docker, Linux & fighting Nginx at 2 AM
+* 🌐 Next.js, React & "just one small frontend change"
+* 🤖 AI tools that are either productivity boosters or future competition
+* 🔗 Web3, distributed systems & random tech experiments
+
+### Current Status
+
+* 🔨 Building stuff
+* 📚 Learning stuff
+* 🐛 Fixing stuff
+* 🔥 Breaking stuff
+* 🔁 Repeat until deployment
+
+### Engineering Philosophy
+
+* ❤️ Loves clean code, maintainable systems, and well-crafted architecture
+* 🏗️ Tries to build things the right way from the beginning
+* 🤷 Ends up balancing ideal engineering with production realities, legacy code, urgent fixes, and a little bit of jugaad
+
+
+### Outside the Terminal
+
+* 🎸 Plays guitar
+* 🪈 Plays flute
+* 🧘 Meditation enjoyer
+* 🌄 Touches grass occasionally
+
+### Tech Stack
+
+`Node.js` `TypeScript` `NestJS` `Express.js`
+`Next.js` `React` `MongoDB` `PostgreSQL`
+`AWS` `Docker` `Linux` `Nginx`
+
+> "Works on my machine." — Famous last words.
