@@ -3,7 +3,7 @@
 
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=32&center=true&vCenter=true&width=550&height=80&duration=3500&color=E8B84B&lines=Hey+There!+👋;I'm+Mystic+Milan!;Backend+Engineer+🇳🇵;Open+to+Remote+Roles." />
 
-  <h3>Building APIs nobody sees but everyone depends on</h3>
+  <h3>Doin’ stupid stuff...</h3>
 
   <br/>
 
