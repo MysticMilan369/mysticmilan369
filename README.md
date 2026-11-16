@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MysticMilan369.MysticMilan369" align="right" />
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=32&center=true&vCenter=true&width=550&height=80&duration=3500&color=E8B84B&lines=Hey+There!+👋;I'm+Mystic+Milan!;Backend+Engineer+🇳🇵;Open+to+Remote+Roles." />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=32&center=true&vCenter=true&width=550&height=80&duration=3500&color=E8B84B&lines=Hey+There!+👋;I'm+Milan+BK!;Backend+Software+Engineer+🇳🇵;Open+to+Remote+Roles." />
 
   <h3>Doin’ stupid stuff...</h3>
 
@@ -23,31 +23,31 @@
 
 <hr/>
 
-Backend engineer who somehow keeps getting dragged into full-stack — and has stopped fighting it.
-2.5+ years shipping production systems that are still running in the wild: SaaS platforms, CMS engines, dashboards, and auth systems.
-Believes in clean code and solid architecture — then learns to balance that against deadlines, legacy code, and production realities.
+Backend Software Engineer focused on building robust, scalable systems with **C# / .NET Core** and Node.js / TypeScript. 
+3 years of experience shipping production workloads across ERP, loan management, and financial platforms, applying structured patterns like Onion Architecture and clean design principles.
+AWS Certified Solutions Architect (Associate) with a strong grasp of cloud infrastructure, database management, and API design.
 
 ## ⚒️ Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,typescript,express,nextjs,react" />
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,aws,linux,nginx,git" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,typescript,ssms" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,azure,mongodb,redis,docker,aws,linux,nginx,git" />
 </div>
 
-## 🌱 Currently Exploring
+## 🌱 Currently Exploring & Learning
 
-- Kafka, RabbitMQ and event-driven architecture
-- AI integrations — OpenAI, RAG pipelines, LLM tooling
-- DSA and system design
-- Python
+- Advanced **System Design** & scalable architectures
+- **AI Integrations** - LLM tooling, RAG pipelines, and OpenAI APIs
+- Event-driven patterns (Kafka, RabbitMQ)
 
 ## 💼 Open to
 
-Remote contracts · Full-time roles · Freelance backend projects
+Remote / Hybrid contracts · Full-time Backend / .NET roles
 
-Based in **Nepal (UTC+5:45)** — overlap with EU/UK hours, async-friendly for US and AU.
+Based in **Nepal (UTC+5:45)** - strong overlap with EU/UK hours, async-friendly for US and AU.
 
-Have something interesting? → **hello.milanbk@gmail.com**
+Have something interesting? **hello.milanbk@gmail.com**
 
 ## 📊 Stats
 
@@ -59,10 +59,10 @@ Have something interesting? → **hello.milanbk@gmail.com**
 
 ## ⚡ Outside the Terminal
 
-🎸 Guitar &nbsp;|&nbsp; 🪈 Flute &nbsp;|&nbsp; 🧘 Meditation &nbsp;|&nbsp; 🌄 Occasional grass-toucher
+🎸 Guitar &nbsp;|&nbsp; 🪈 Flute &nbsp;|&nbsp; 🧘 Meditation &nbsp;|&nbsp; 🌾 Village roots & farming life
 
 <div align="center">
 
-*"Works on my machine."* ~ Famous last words
+*"TODO: Figure out life."*
 
 </div>
